@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Jeet Soni  
 
-<!--
-**itzjeetoffical/itzjeetoffical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **BCA Student** and beginner **Developer & Programmer**  
+💻 Currently learning the fundamentals of **Web Development & Programming**  
+📱 I also create Android apps using **Sketchware**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- HTML & CSS (Web Basics)  
+- C Programming  
+- App Development with Sketchware  
+
+---
+
+## 🛠️ Skills & Tools
+- **Languages:** C (beginner), HTML, CSS  
+- **App Development:** Sketchware  
+- **Tools:** Git, GitHub, VS Code, Android Emulator  
+
+---
+
+## 📂 Projects
+*(I’m still building projects while learning, will update soon!)*  
+- 💻 Personal Website (HTML/CSS) – Coming soon  
+- 📱 Android App using Sketchware – Coming soon  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzjeetofficial&show_icons=true&theme=radical)  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn - https://in.linkedin.com/in/itzjeetoffical 
+- Instagram - https://www.instagram.com/itzjeetoffical/
+- 📧 Email: Jeetsoni273@gmail.com
