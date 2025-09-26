@@ -27,11 +27,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzjeetofficial&show_icons=true&theme=radical)  
-
----
-
 ## 📫 Connect With Me
 - LinkedIn - https://in.linkedin.com/in/itzjeetoffical 
 - Instagram - https://www.instagram.com/itzjeetoffical/
