@@ -27,6 +27,32 @@
 
 ---
 
+## 💼 Experience
+
+### Crew Member (Part-Time)
+**McDonald's**  
+📍 Arya Nagar, Greenland Chowkdi, Rajkot, Gujarat  
+🗓️ Jan 12, 2026 – Present  
+
+**What I Do:**
+- Support daily restaurant operations in a fast-paced environment  
+- Handle customer orders and ensure service accuracy  
+- Follow standard operating procedures (SOPs) and safety guidelines  
+- Work closely with team members to maintain efficiency and quality  
+- Develop discipline, time management, and real-world work ethics  
+
+**Skills Gained:**
+- Team Collaboration  
+- Customer Communication  
+- Process & SOP Adherence  
+- Time Management  
+- Responsibility & Accountability
+
+> This role has helped me build discipline, teamwork, and process-driven thinking,
+> which I apply in my development and SEO projects.
+
+---
+
 ## 📫 Connect With Me
 - LinkedIn - https://in.linkedin.com/in/itzjeetoffical 
 - Instagram - https://www.instagram.com/itzjeetoffical/
