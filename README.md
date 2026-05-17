@@ -1,59 +1,148 @@
-# 👋 Hi, I'm Jeet Soni  
+# 👋 Welcome to the Team
 
-🎓 I'm a **BCA Student** and beginner **Developer & Programmer**  
-💻 Currently learning the fundamentals of **Web Development & Programming**  
-📱 I also create Android apps using **Sketchware**  
+This repository powers the digital identity, projects, and experimental builds under the **ItzJeetOfficial** ecosystem.  
+The goal is simple:
 
----
+- Build clean, useful, and aesthetic developer experiences
+- Experiment with modern web technologies
+- Maintain scalable and organized code
+- Ship consistently
 
-## 🌱 Currently Learning
-- HTML & CSS (Web Basics)  
-- C Programming  
-- App Development with Sketchware  
-
----
-
-## 🛠️ Skills & Tools
-- **Languages:** C (beginner), HTML, CSS  
-- **App Development:** Sketchware  
-- **Tools:** Git, GitHub, VS Code, Android Emulator  
+Whether you're contributing to UI, backend logic, automation, or content — thank you for being part of the journey.
 
 ---
 
-## 📂 Projects
-*(I’m still building projects while learning, will update soon!)*  
-- 💻 Personal Website (HTML/CSS) – Coming soon  
-- 📱 Android App using Sketchware – Coming soon  
+# 🚀 Vision
+
+We are building more than just projects.
+
+This repo represents:
+- consistency
+- discipline
+- creativity
+- developer-focused experiences
+- calm & aesthetic workflows
+
+Every contribution should follow:
+
+> **Minimal. Clean. Functional. Maintainable.**
 
 ---
 
-## 💼 Experience
+# 🛠 Tech Stack
 
-### Crew Member (Part-Time)
-**McDonald's**  
-📍 Arya Nagar, Greenland Chowkdi, Rajkot, Gujarat  
-🗓️ Jan 12, 2026 – Present  
+Current technologies used across projects:
 
-**What I Do:**
-- Support daily restaurant operations in a fast-paced environment  
-- Handle customer orders and ensure service accuracy  
-- Follow standard operating procedures (SOPs) and safety guidelines  
-- Work closely with team members to maintain efficiency and quality  
-- Develop discipline, time management, and real-world work ethics  
+- HTML5
+- CSS3
+- JavaScript
+- Java
+- Git & GitHub
 
-**Skills Gained:**
-- Team Collaboration  
-- Customer Communication  
-- Process & SOP Adherence  
-- Time Management  
-- Responsibility & Accountability
-
-> This role has helped me build discipline, teamwork, and process-driven thinking,
-> which I apply in my development and SEO projects.
+Planned additions:
+- React
+- Node.js
+- Spring Boot
+- APIs & Automation
+- AI Integrations
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn - https://in.linkedin.com/in/itzjeetoffical 
-- Instagram - https://www.instagram.com/itzjeetoffical/
-- 📧 Email: Jeetsoni273@gmail.com
+# 📂 Project Structure
+
+```bash
+.
+├── assets/          # Images, icons, media
+├── projects/        # Main development projects
+├── experiments/     # Testing & prototypes
+├── snippets/        # Reusable code snippets
+├── docs/            # Documentation
+└── README.md
+```
+
+---
+
+# 📌 Development Guidelines
+
+## Code Style
+- Keep code readable
+- Use meaningful variable names
+- Avoid unnecessary complexity
+- Comment only where required
+
+## Commit Rules
+
+Use clean commit messages:
+
+```bash
+feat: added authentication page
+fix: resolved navbar responsiveness
+refactor: optimized file structure
+```
+
+## Branch Naming
+
+```bash
+feature/login-page
+fix/mobile-navbar
+experiment/ai-tools
+```
+
+---
+
+# ⚡ Workflow
+
+1. Pull latest changes
+2. Create a new branch
+3. Make changes
+4. Test properly
+5. Push changes
+6. Open Pull Request
+
+---
+
+# 🎯 Current Focus
+
+- Building productivity-focused projects
+- Improving UI/UX quality
+- Creating developer tools
+- Learning scalable backend systems
+- Exploring automation & AI workflows
+
+---
+
+# 📖 Philosophy
+
+We believe:
+- consistency beats motivation
+- simplicity scales
+- aesthetic matters
+- clean code is respect for future developers
+
+---
+
+# 🤝 Contribution
+
+Before contributing:
+
+- Follow project structure
+- Test your code
+- Keep PRs focused
+- Avoid unnecessary dependencies
+
+If you're adding a major feature, document it properly.
+
+---
+
+# 📬 Contact
+
+For collaboration, ideas, or discussions:
+
+- GitHub: https://github.com/itzjeetoffical
+
+---
+
+# 🧠 Final Note
+
+> Build slowly. Build properly.  
+> Great systems are created through consistency, not speed.
